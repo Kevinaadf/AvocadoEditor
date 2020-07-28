@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\bin\Debug\AvocadoEditor.exe.config
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\bin\Debug\AvocadoEditor.exe
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\bin\Debug\AvocadoEditor.pdb
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.csprojAssemblyReference.cache
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.AvocadoEditor.resources
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.Properties.Resources.resources
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.csproj.GenerateResource.cache
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.exe
+D:\VisualStudioProjects\AvocadoEditor\AvocadoEditor\obj\Debug\AvocadoEditor.pdb
